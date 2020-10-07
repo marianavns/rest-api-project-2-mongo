@@ -1,0 +1,82 @@
+[
+    {
+        "id": "",
+        "name": "Insubmissas lágrimas de mulheres",
+        "authorship": "Conceição Evaristo",
+        "publishingCompany": "",
+        "release": 2011,
+        "genre": "fiction" 
+    },
+    {
+        "id": "",
+        "name": "Dom Casmurro",
+        "authorship": "Machado de Assis",
+        "publishingCompany": "",
+        "release": 1899,
+        "genre": ["romance", "fiction", "memories", "realism"] 
+    },
+    {
+        "id": "",
+        "name": "Quarto de Despejo",
+        "authorship": "Carolina de Jesus",
+        "publishingCompany": "",
+        "release": 1960,
+        "genre": "biography" 
+    },
+    {
+        "id": "",
+        "name": "Espumas Flutuantes",
+        "authorship": "Castro Alves",
+        "publishingCompany": "",
+        "release": 1870,
+        "genre": "poetry" 
+    },
+    {
+        "id": "",
+        "name": "Heroínas negras brasileiras em 15 cordéis",
+        "authorship": "Jarid Arraes",
+        "publishingCompany": "",
+        "release": 2017,
+        "genre": "poetry" 
+    },
+    {
+        "id": "",
+        "name": "Triste Fim de Policarpo Quaresma",
+        "authorship": "Lima Barreto",
+        "publishingCompany": "",
+        "release": 1911,
+        "genre": "fiction" 
+    },
+    {
+        "id": "",
+        "name": "Vidas Secas",
+        "authorship": "Graciliano Ramos",
+        "publishingCompany": "",
+        "release": 1938,
+        "genre": ["romance", "fiction"] 
+    },
+    {
+        "id": "",
+        "name": "Broquéis",
+        "authorship": "Cruz e Sousa",
+        "publishingCompany": "",
+        "release": 1893,
+        "genre": ["poetry", "drama"] 
+    },
+    {
+        "id": "",
+        "name": "Por Uma Outra Globalização: Do pensamento único à consciência universal",
+        "authorship": "Milton Santos",
+        "publishingCompany": "",
+        "release": 2000,
+        "genre": "sociology" 
+    },
+    {
+        "id": "",
+        "name": "Úrsula",
+        "authorship": "Maria Firmino dos Reis",
+        "publishingCompany": "",
+        "release": 1859,
+        "genre": "fiction" 
+    }
+]
