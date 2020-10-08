@@ -14,6 +14,6 @@ router.get('/colaboradores', controller.getAllCollaborators)
 router.delete('/colaborador/:id', controller.deleteCollaborator)
 
 router.get('/livros/:genre', controller.getBookByGenre)
-router.get('/idadedocolaborador/:id', controller.getAgeByID)
+router.get('/idade/:id', controller.getAgeByID)
 
 module.exports = router
