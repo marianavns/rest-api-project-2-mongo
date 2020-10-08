@@ -1,5 +1,6 @@
 [
     {
+        "isbn": "",
         "id": "",
         "name": "Insubmissas lágrimas de mulheres",
         "authorship": "Conceição Evaristo",
@@ -8,6 +9,7 @@
         "genre": "fiction" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Dom Casmurro",
         "authorship": "Machado de Assis",
@@ -16,6 +18,7 @@
         "genre": ["romance", "fiction", "memories", "realism"] 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Quarto de Despejo",
         "authorship": "Carolina de Jesus",
@@ -24,6 +27,7 @@
         "genre": "biography" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Espumas Flutuantes",
         "authorship": "Castro Alves",
@@ -32,6 +36,7 @@
         "genre": "poetry" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Heroínas negras brasileiras em 15 cordéis",
         "authorship": "Jarid Arraes",
@@ -40,6 +45,7 @@
         "genre": "poetry" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Triste Fim de Policarpo Quaresma",
         "authorship": "Lima Barreto",
@@ -48,6 +54,7 @@
         "genre": "fiction" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Vidas Secas",
         "authorship": "Graciliano Ramos",
@@ -56,6 +63,7 @@
         "genre": ["romance", "fiction"] 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Broquéis",
         "authorship": "Cruz e Sousa",
@@ -64,6 +72,7 @@
         "genre": ["poetry", "drama"] 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Por Uma Outra Globalização: Do pensamento único à consciência universal",
         "authorship": "Milton Santos",
@@ -72,6 +81,7 @@
         "genre": "sociology" 
     },
     {
+        "isbn": "",
         "id": "",
         "name": "Úrsula",
         "authorship": "Maria Firmino dos Reis",
