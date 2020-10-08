@@ -1,5 +1,3 @@
-
-
 const books = require( '../model/books.json' )
 const collaborators = require( '../model/collaborators.json' )
 
@@ -19,20 +17,20 @@ const postBook = ( req, res ) => {
         console.log("O arquivo foi atualizado.")
     })    
     res.status(200).send(books)
-};
+}
 
 const deleteBook = ( req, res ) => {
-        const id = req.param.id
-        const filteredBook = books.filter((array) => array.id == id)
-        const indexFilteredBook = books.indexOf(filteredBook)
-        books.splice(indexFilteredBook)
-        fs.writeFile('./src/model/books.json', JSON.stringify(books), 'utf8', function(err){
-            if (err) {
-            return res.status(424).send({message: err});
-            }
-            console.log("O arquivo foi atualizado.")
-        })
-    res.status(200).send(books)
+    const id = req.param.id
+    const filteredBook = books.filter((array) => array.id == id)
+    const indexFilteredBook = books.indexOf(filteredBook)
+    books.splice(indexFilteredBook)
+    fs.writeFile('./src/model/books.json', JSON.stringify(books), 'utf8', function(err){
+        if (err) {
+        return res.status(424).send({message: err});
+        }
+        console.log("O arquivo foi atualizado.")
+    })
+res.status(200).send(books)
 }
 
 const getAllCollaborators = ( req, res ) => {
@@ -46,6 +44,8 @@ const getAllCollaborators = ( req, res ) => {
 // const deleteCollaborator = ( req, res ) => {
 //     res.status(200).send(collaborators)
 // }
+
+/////////////////
 
 // const getBookByGenre = ( req, res ) => {
 //     res.status(200).send(booksByGenre)
