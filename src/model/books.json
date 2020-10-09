@@ -1,92 +1,91 @@
 [
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788592736064",
+        "id":"1",
         "name":"Insubmissas lágrimas de mulheres",
         "authorship":"Conceição Evaristo",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Malê",
         "release":2011,
-        "genre":"fiction"
+        "genre":"ficção"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9780850515039",
+        "id":"2",
         "name":"Dom Casmurro",
         "authorship":"Machado de Assis",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Vozes",
         "release":1899,
-        "genre":["romance", "fiction", "memories", "realism"]
+        "genre":["romance","ficção","realismo"]
     },
     {
-        "isbn":"",
-        "id":"",
-        "name":"Quarto de Despejo",
+        "isbn":"9788508043637",
+        "id":"3",
+        "name":"Quarto de Despejo: Diário de Uma Favelada",
         "authorship":"Carolina de Jesus",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Ática",
         "release":1960,
-        "genre":"biography"
+        "genre":"biografia"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788585851361",
+        "id":"4",
         "name":"Espumas Flutuantes",
         "authorship":"Castro Alves",
-        "publishingCompany":"",
+        "publishingCompany":"Ateliê Editorial",
         "release":1870,
-        "genre":"poetry"
+        "genre":"poesia"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788598349459",
+        "id":"5",
         "name":"Heroínas negras brasileiras em 15 cordéis",
         "authorship":"Jarid Arraes",
-        "publishingCompany":"",
+        "publishingCompany":"Pólen Livros",
         "release":2017,
-        "genre":"poetry"
+        "genre":"poesia"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788563560179",
+        "id":"6",
         "name":"Triste Fim de Policarpo Quaresma",
         "authorship":"Lima Barreto",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Penguin",
         "release":1911,
-        "genre":"fiction"
+        "genre":"ficção"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788501114785",
+        "id":"7",
         "name":"Vidas Secas",
         "authorship":"Graciliano Ramos",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Record",
         "release":1938,
-        "genre":["romance", "fiction"]
+        "genre":["romance", "ficção"]
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788525412294",
+        "id":"8",
         "name":"Broquéis",
         "authorship":"Cruz e Sousa",
-        "publishingCompany":"",
+        "publishingCompany":"L&PM Pocket",
         "release":1893,
-        "genre":["poetry",
-        "drama"]
+        "genre":["poesia", "drama"]
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788501058782",
+        "id":"9",
         "name":"Por Uma Outra Globalização: Do pensamento único à consciência universal",
         "authorship":"Milton Santos",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Record",
         "release":2000,
-        "genre":"sociology"
+        "genre":"sociologia"
     },
     {
-        "isbn":"",
-        "id":"",
+        "isbn":"9788582940570",
+        "id":"10",
         "name":"Úrsula",
         "authorship":"Maria Firmino dos Reis",
-        "publishingCompany":"",
+        "publishingCompany":"Editora Taverna",
         "release":1859,
         "genre":"fiction"
         }
