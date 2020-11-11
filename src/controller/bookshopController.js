@@ -1,5 +1,4 @@
 const books = require( '../model/books.js' )
-// const collaborators = require( '../model/collaborators.js' )
 
 const fs = require('fs')
 
@@ -36,8 +35,32 @@ const postBook = (req, res) => {
     })
 }
 
+const deleteBook = (req, res) => {
+    const id = req.params.id
+    books.deleteMany({ id }, function(err){
+        if (err) {
+            res.status(500).send({ message: err.message })
+        } else {
+            res.status(200).send({ message : "livro removido com sucesso"})
+        }
+    })
+}
+
+const deleteBookbyMongoID = (req, res) => {
+    const id = req.params._id
+    books.deleteMany({ id }, function(err){
+        if (err) {
+            res.status(500).send({ message: err.message })
+        } else {
+            res.status(200).send({ message : "livro removido com sucesso"})
+        }
+    })
+}
+
 module.exports = { 
     getBySearch,
     getAllBooks,
-    postBook
+    postBook,
+    deleteBook,
+    deleteBookbyMongoID
 }

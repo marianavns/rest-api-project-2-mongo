@@ -1,3 +1,4 @@
 /node_modules/
 /Images
 /package-lock.json
+/src/model/collaborators.js
